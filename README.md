@@ -59,7 +59,7 @@ Here are some **keywords** that I tried to understand when I build this app (you
  * [repository.py](./repository.py)
  * [README.md](./README.md)
  * [requirements.txt](./requirements.txt)
- * [xendit-go repository - 2021 report.xlsx](./xendit-go repository - 2021 report.xlsx)
+ * xendit-go repository - 2021 report.xlsx
  * xendit-java repository - 2021 report.xlsx
  * xendit-node repository - 2021 report.xlsx
  * xendit-php repository - 2021 report.xlsx
