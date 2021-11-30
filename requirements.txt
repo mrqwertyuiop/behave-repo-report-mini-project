@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+openpyxl
+xlsxwriter
+xlrd
+behave
