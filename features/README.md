@@ -53,16 +53,17 @@ Here are some **keywords** that I tried to understand when I build this app (you
 ## Program Details
 
 #### Program Structure
- * [steps](./steps)
-   * [behave_example.py](./steps/behave_example.py)
-   * [repository_steps.py](./steps/repository_steps.py)
- * [repository.py](./repository.py)
+ * [features](./features/)
+    * [steps](./steps)
+        * [behave_example.py](./steps/behave_example.py)
+        * [repository_steps.py](./steps/repository_steps.py)
+    * [repository.py](./repository.py)
+    * [requirements.txt](./requirements.txt)
+    * xendit-go repository - 2021 report.xlsx
+    * xendit-java repository - 2021 report.xlsx
+    * xendit-node repository - 2021 report.xlsx
+    * xendit-php repository - 2021 report.xlsx
  * [README.md](./README.md)
- * [requirements.txt](./requirements.txt)
- * xendit-go repository - 2021 report.xlsx
- * xendit-java repository - 2021 report.xlsx
- * xendit-node repository - 2021 report.xlsx
- * xendit-php repository - 2021 report.xlsx
 
 
 #### Repository Class has some properties:
